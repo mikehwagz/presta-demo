@@ -2,6 +2,6 @@ export async function getPaths() {
   return ['/about']
 }
 
-export function Page({ pathname }) {
+export function Page() {
   return `<h1>About</h1>`
 }
