@@ -1,0 +1,16 @@
+{
+  "name": "presta-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "presta build pages/**/*.js",
+    "watch": "presta watch pages/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "presta": "^0.16.0"
+  }
+}
